@@ -7,9 +7,9 @@ Test Objectives.
 
 Those reports are made as a Demo to help Junior testers understand how to file reports within their organization.
 
-Info regarding the test - made by DorielShacham(Test-management)
-Info regarding the program - made by MishaYanov(Fullstack-To Do List)
-
+- Info regarding the test - made by DorielShacham(Test-management)
+- Info regarding the program - made by MishaYanov(Fullstack-To Do List)
+https://github.com/MishaYanov/fullstack
 
 Test plan includes - Summary (Name,description, Phases, Schedule)
 Test Stakeholders - Info on the team
